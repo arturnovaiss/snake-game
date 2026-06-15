@@ -11,7 +11,7 @@ Este projeto foi desenvolvido com foco em lógica de programação, manipulaçã
 ## 🚀 Demonstração
 
 🔗 Deploy Online:
-https://snake-game-blond-five.vercel.app/
+https://snake-game-vdt7.vercel.app/
 
 ## 🛠️ Tecnologias Utilizadas
 
